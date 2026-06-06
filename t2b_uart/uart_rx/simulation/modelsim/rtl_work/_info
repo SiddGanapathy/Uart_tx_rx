@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Quartus_Projects/t2b_uart/uart_rx/simulation/modelsim
+vtb
+!s110 1763395244
+!i10b 1
+!s100 _8QgF]mIVLcW]i2^g:nDe2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I80A0V[?kOo_fUmi7IiGbZ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1763370360
+8C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/.test/tb.v
+FC:/Users/User/Quartus_Projects/t2b_uart/uart_rx/.test/tb.v
+!i122 1
+L0 3 125
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1763395244.000000
+!s107 C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/.test|C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/.test/tb.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/.test
+Z5 tCvgOpt 0
+vuart_rx
+!s110 1763395243
+!i10b 1
+!s100 XSI`U6?7KYjiX9=>m=Xbd1
+R1
+IWP7jIF_F6JLf:PKhB9Xi93
+R2
+R0
+w1763395183
+8C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/code/uart_rx.v
+FC:/Users/User/Quartus_Projects/t2b_uart/uart_rx/code/uart_rx.v
+!i122 0
+L0 1 110
+R3
+r1
+!s85 0
+31
+!s108 1763395242.000000
+!s107 C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/code/uart_rx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/code|C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/code/uart_rx.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/User/Quartus_Projects/t2b_uart/uart_rx/code
+R5
